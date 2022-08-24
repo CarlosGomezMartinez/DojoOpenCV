@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1721573931
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -556641225
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1845882235
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -687302877
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 521063990
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\u0027",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1916540147
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\u0027",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1257260007
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\build\\intermediates\\cxx\\Debug\\3l21574b\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\build\\intermediates\\cxx\\Debug\\3l21574b\\obj\\x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 801072804
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\carlo\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\build\\intermediates\\cxx\\Debug\\3l21574b\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\build\\intermediates\\cxx\\Debug\\3l21574b\\obj\\x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1269627717
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1859241391
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 208717739
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\.cxx\\Debug\\3l21574b\\x86_64\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -908153557
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\carlo\\Desktop\\DojoOpenCV\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2146790823
+  }
+]
