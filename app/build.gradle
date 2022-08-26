@@ -13,6 +13,14 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        externalNativeBuild {
+            cmake {
+                arguments "-DOpenCV_DIR=C:\\Users\\carlo\\Documents\\Instaladores\\opencv-4.6.0-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni"
+                    "-DANDROID_TOOLCHAIN=clang"
+                    "-DANDROID_STL=c++_static"
+                targets "dojoopencv"
+            }
+        }
     }
 
     buildTypes {
@@ -24,6 +32,12 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
+    }
+    externalNativeBuild {
+        cmake {
+            path file('src/main/cpp/CMakeLists.txt')
+            version '3.18.1'
+        }
     }
 }
 
